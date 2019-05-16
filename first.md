@@ -1,1 +1,5 @@
-# my first md
+# my grocery list
+
+- brinjal
+- tomatoes
+- potatoes
